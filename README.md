@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Meu nome é Emily e eu estou estudando programção na aula de Tecnologia da Escola.
 <!--
 **dormir03/dormir03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
